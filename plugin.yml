@@ -1,0 +1,9 @@
+ name: MyPetGUI
+ main: me.dordsor21.MyPetGUI.Main
+ version: Athion
+ author: dordsor21
+ description: Simple GUI for MyPets!
+ commands:
+  pet:
+    description: Open the GUI to select a pet!
+    permission: mypetgui.use
